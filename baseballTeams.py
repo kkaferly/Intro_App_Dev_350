@@ -1,5 +1,5 @@
-Baseball - Write a program to use the file to produce a text file containing the information. In the new file, the baseball teams should be in descending order 
-by the percentage of games won.
+#Baseball - Write a program to use the file to produce a text file containing the information. In the new file, the baseball teams should be in descending order 
+#by the percentage of games won.
 
 # Import library
 import pickle
